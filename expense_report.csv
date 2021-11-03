@@ -1,0 +1,11 @@
+amount,label,spender,involved
+1234,carrefour,Thomas,Alexis
+12.0,test,Thomas,Alexis
+12.0,carrefour,Alexis,Anatole
+6.0,test,Thomas,Alexis
+3.0,test,Thomas,Anatole
+25.0,final,Alexis,Anatole
+25.0,final,Alexis,Lucas
+50.0,Carrefour,Thomas,Alexis
+1000.0,carrefour,,Lucas
+123.0,test,Alexis,Thomas
